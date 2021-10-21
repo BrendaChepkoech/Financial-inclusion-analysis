@@ -1,1 +1,1 @@
-# FINANCIAL INCLUSION IN EAST AFRICA
+# Financial Inclusion Analysis in East Africa
